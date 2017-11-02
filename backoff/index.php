@@ -8,7 +8,7 @@ if(isset($_POST["connexion"]) && !empty($_POST['login']) && !empty($_POST['pass'
 	$login = mysql_real_escape_string(htmlspecialchars($_POST['login']));
 	$pass = mysql_real_escape_string(htmlspecialchars($_POST['pass']));
 	
-	if ($login == "admincd92" && $pass == "183cd92"){
+	if ($login == "" && $pass == ""){
 		$_SESSION['connect_admin'] = 1;
 		header('Location: admin.php');
 	} else {
