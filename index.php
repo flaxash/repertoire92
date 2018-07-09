@@ -41,10 +41,10 @@ if (isset($_POST['down']) && !empty($_POST['rne']) && !empty($_POST['pass'])){
 
 	<div class="row">
 		<div class="span3 offset1">
-			<a href="index.php"><img src="img/affiche_traverses_web2015.jpg" border="0"></a>
+			<a href="index.php"><img src="img/affiche_traverses.png" border="0"></a>
 		</div>
 		<div class="span8">
-			<h2>Le répertoire 92 « Jardins … »<br>2015-2016</h2>
+			<h2>Le répertoire 92 « Métamorphoses … »<br>2017-2019</h2>
 		</div>
 	</div>
 	
@@ -53,15 +53,20 @@ if (isset($_POST['down']) && !empty($_POST['rne']) && !empty($_POST['pass'])){
 	<div class="row">
 		
 		<div class="span10 offset1">
-		Le répertoire 92 « Jardins … » est une ressource départementale visant à développer la pratique du chant dans le cadre du socle commun et de l’histoire des arts.
-		Il s’adresse aux enseignants des écoles primaires et des collèges et peut permettre des projets inter degrés.<br>
-		Il est composé de :
-			<ul>
-				<li>11 titres de styles variés</li>
-				<li>11 accompagnements instrumentaux</li>
-				<li>Un guide pédagogique « La loupe à l’oreille » pour sa mise en œuvre en classe à l’attention des enseignants non musiciens.</li>
-				<li>Des fiches culturelles</li>
-			</ul>
+    <br>
+    <p>
+    Le répertoire 92  est une ressource départementale visant à développer la pratique du chant en classe. 
+    Il s’adresse aux enseignants des écoles primaires et des collèges et peut constituer une ressource pour des projets chorals inter degrés. 
+    </p>
+    
+    <p>
+    Il est composé de neuf titres variés et de neuf accompagnements instrumentaux choisis autour de la thématique départementale de Traverses 92 : « Métamorphoses ».
+    </p>
+    
+    <br>
+    <p>
+    Un guide pédagogique « La loupe à l’oreille », à l’attention des enseignants non musiciens est également à disposition pour la mise en œuvre des chants en classe. Il permet de faire chanter les élèves sans obligatoirement passer par le modèle vocal de l’enseignant.
+    </p>
 		<br>&nbsp;
 		</div>
 		
